@@ -1,0 +1,17 @@
+Matthew Simon mls498 and Nicholas Robinson nar73
+
+The extensions we made were the addition of the scoreboard and the sound effects
+
+Sound Effets added:
+Sound when game starts, Changing Tides by Nicholas Robinson
+sound when ship shoots
+sound when alien shoots
+sound when alien dies
+sound when ship dies 
+
+Scoreboard:
+keeps track of how many aliens you killed
+
+Game music was made by Nicholas Robinson nar73 so all rights go to him
+title of song: Changing Tides
+
